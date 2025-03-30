@@ -1,0 +1,43 @@
+<html>
+<title>проєкт BMW</title>
+<body style="background-color:#000000"> 
+    <header>
+        <!-- Шапка: назва сайту, логотип, посилання -->
+        <h1 style="text-align:center; background-color:#228B22	">BMW m5 e60 </h1>
+        </header>
+        <main>
+        <img src="https://focus.ua/static/storage/thumbs/920x465/4/cb/1292d8b5-d796cd296f52059d98634a344018fcb4.jpg?v=7617_1" width="450">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ6W5pXFry7YoN_B2gNUG1fWwF26O07PoAEw&s">
+        <a href="https://uk.wikipedia.org/wiki/BMW_5_%D0%A1%D0%B5%D1%80%D1%96%D1%97_(E60/E61)" style="font-size:20px;background-color:lightgray; text-align:center">коли виникла BMW е60</a>
+        
+            <p style=" font-size:20px;background-color:#000000;color:white">У 2003 році дебютувала нова модель BMW E60. Автомобіль був представлений в двох варіантах кузова: спочатку з'явився седан, а на наступний рік модель була доповнена версією «універсал». В «п'ятірці» як і в BMW сьомої серії вирішили кожному кузову</p>
+            <h2 style=" font-size:20px;background-color:#000000;color:white">як заснувалася компанія BMW</h2>
+            <p style="font-size:20px;background-color:#000000;color:white">Bayerische Motoren Werke AG або скор. BMW (Баварські автомобільні заводи, БМВ; вимовляється: Бе́-еМ-Ве́) — німецький автобудівний та авіамоторний концерн і однойменна торгова марка автомобілів преміум- та люкс-класу і мотоциклів. Концерн є материнською фірмою (холдингом) об'єднання BMW Group, до якого входять такі окремі виробництва: мотоцикли BMW, автомобілі марок BMW, Rolls-Royce, MINI, дочірні виробництва BMW M, BMW i.</p>
+            <img src="https://i.pinimg.com/originals/3f/1b/8b/3f1b8bf8eb1e03f45307889088ea4264.jpg" width="460">
+            <table>
+                <tr>
+                    <td style="border:2px solid white; color:white">Engine</td>
+                    <td style="border:2px solid white; color:white">V10</td>
+                </tr>
+                <tr>
+                    <td style="border:2px solid white; color:white">Power</td>
+                    <td style="border:2px solid white; color:white">507hp</td>
+               </tr>
+            <tr>    
+                <td style="border:2px solid white; color:white">Acceletion0-100</td>
+                <td style="border:2px solid white; color:white">4.5</td>
+            </tr>
+                <tr>
+                    <td style="border:2px solid white; color:white">Topspeed</td>
+                    <td style="border:2px solid white; color:white">330</td>
+                    </tr>
+            </table>
+        <!-- Основна інформація сайту -->
+
+    </main>
+    <footer style="text-align:center;font-size:30px; color:white">Владислав Пиняга
+        <!-- Підвал з додатковою інформацією та підписом автора -->
+      
+    </footer>
+</body>
+</html>
